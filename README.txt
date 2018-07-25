@@ -1,1 +1,1 @@
-﻿There is nothing on this website that currenty requires credit to be given. Should that changes this README will be updated.
+﻿There is nothing on this website that currently requires credit to be given. Should that changes this README will be updated.
